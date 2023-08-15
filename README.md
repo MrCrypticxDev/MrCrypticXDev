@@ -22,6 +22,6 @@
 <hr>
 <p align="center">
  <a href="https://discord.com/users/503215722407657478">
-  <img src="https://lanyard-profile-readme.vercel.app/api/503215722407657478" width="440" height="240"/>
+  <img src="https://lanyard-profile-readme.vercel.app/api/503215722407657478?borderRadius=17px&showDisplayName=true"/>
    
 </p>
