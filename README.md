@@ -1,5 +1,5 @@
 # Hello there 👋🏾
-- 🐊 Might bite? Typically... I'm developing bots, websites, apps & exploring new interests that I _stumble_ across.
+- 🐊 Typically... developing bots, websites, apps & exploring til' I _stumble_ across something and get lost in a rabbit hole of new interests 😭
 - 👀 Playing with frameworks & tools that makes life soooooo much easier 😌
 
 <p align="center">
