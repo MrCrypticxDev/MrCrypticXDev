@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,rust,html,css,sass,nginx" />
-    <img src="https://skillicons.dev/icons?i=discord,twitter,vscode,react,next,remix,tailwind,prisma,aws,workers,postgres,nodejs,linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,rust,html,css,sass,vscode" />
+    <img src="https://skillicons.dev/icons?i=discord,discordjs,react,next,remix,tailwind,aws,workers,postgres,prisma,nginx,nodejs,linux,windows" />
   </a>
 </p>
 
