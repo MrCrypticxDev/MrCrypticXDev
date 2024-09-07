@@ -1,5 +1,6 @@
-## Hello there 👋🏾
-🐊 Might bite? Typically... I'm developing bots, websites, apps & exploring new interests that I _stumble_ across. 👀 Playing with frameworks & tools that makes life soooooo much easier 😌
+# Hello there 👋🏾
+- 🐊 Might bite? Typically... I'm developing bots, websites, apps & exploring new interests that I _stumble_ across.
+- 👀 Playing with frameworks & tools that makes life soooooo much easier 😌
 
 <p align="center">
   <a href="https://skillicons.dev">
